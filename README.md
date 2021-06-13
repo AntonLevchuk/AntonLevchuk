@@ -1,5 +1,5 @@
 - Hi there 👋, I’m @AntonLevchuk
-- 👀 I’m interested in wed-development(Python, Django)
+- 👀 I’m interested in wed-development(Python, Django, Flask)
 - 🌱 I’m currently learning different Python libraries
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact with me by email: antonlevchuk626@gmail.com
